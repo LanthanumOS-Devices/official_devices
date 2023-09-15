@@ -1,6 +1,4 @@
-![Evolution X](https://github.com/Evolution-X/manifest/raw/tiramisu/EvoBanner.png)
 
-[![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files/latest/download)
 
 ### Adding/Updating a device listing in devices.json
 
@@ -135,6 +133,3 @@ Ensure you replace `<input_json>` with the path to your input JSON file. This JS
 6. Once the changelog is added, the script will automatically commit the changes, allowing you to push and submit a pull request.
 
 
-- Example:
-
-![example](https://github.com/Evolution-X-Devices/official_devices/blob/master/assets/json_ota_helper_example.gif)
