@@ -61,7 +61,7 @@ Example:
 {
    "datetime": 1688939964,
    "filehash": "2dcbad67de1795861872a286fdddfbfe",
-   "filename": "evolution_codename-ota-tq3a.230705.001.b4-07091846-unsigned.zip",
+   "filename": "lanthanum_codename-ota-tq3a.230705.001.b4-07091846-unsigned.zip",
    "id": "f3cedcfef3bbd4edaf699861634bb2ed343b41b96de6dca7124cdbbaef0b5c46",
    "size": 2587033654
 }
@@ -90,12 +90,10 @@ Please ensure that you replace the placeholders (datetime, filehash, filename, i
    "id": ,
    "maintainer": "",
    "maintainer_url": "",
-   "news_url": "https://t.me/EvolutionXOfficial",
+   "news_url": "https://t.me/LanthanumOSOfficial",
    "size": ,
    "telegram_username": "",
-   "url": "https://sourceforge.net/projects/evolution-x/files/codename/13/filename/download",
    "version": "Thirteen",
-   "website_url": "https://evolution-x.org"
 }
 ```
 
