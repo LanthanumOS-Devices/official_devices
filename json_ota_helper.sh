@@ -145,7 +145,7 @@ if [ -z "$filename" ]; then
     exit 1
 fi
 
-codename=$(echo "$filename" | sed -E 's/^evolution_([^.-]+)-ota-.+$/\1/')
+codename=$(echo "$filename" | sed -E 's/^lanthanum_([^.-]+)-ota-.+$/\1/')
 if [ -z "$codename" ]; then
     display_help
     exit 1
@@ -182,7 +182,7 @@ filehash=$(jq -r '.filehash' "$input_json")
 id=$(jq -r '.id' "$input_json")
 size=$(jq -r '.size' "$input_json")
 
-url="https://sourceforge.net/projects/evolution-x/files/${codename}/13/${filename}/download/"
+url="https://sourceforge.net/projects/lanthanum-os/files/${codename}/13/${filename}/download/"
 
 display_diff() {
     local old_value=$1
