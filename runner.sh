@@ -21,8 +21,8 @@ else
     git checkout master  > /dev/null
     git pull origin master  > /dev/null
     # Prevent announcing on CI commit itself
-    if [[ ! "$COMMIT_MESSAGE" =~ "[EvolutionX-CI]" ]]; then
-        sendTG "<b>CI is building...</b> %0A<b>Head:</b> <a href='https://github.com/Evolution-X-Devices/official_devices/commit/${COMMIT_HASH}'>${COMMIT_SMALL_HASH}</a>"
+    if [[ ! "$COMMIT_MESSAGE" =~ "[LanthanumOS-CI]" ]]; then
+        sendTG "<b>CI is building...</b> %0A<b>Head:</b> <a href='https://github.com/LanthanumOS-Devices/official_devices/commit/${COMMIT_HASH}'>${COMMIT_SMALL_HASH}</a>"
     fi
 fi
 
@@ -33,10 +33,10 @@ RESULT=$?
 if [ -n "$PULL_REQUEST_NUMBER" ]; then
 
     if [ "$RESULT" -eq 1 ]; then
-        sendTG "<code>Pull request $PULL_REQUEST_NUMBER is failing checks. The maintainer is requested to check it.</code> %0A%0A<b>Failed file(s):</b> <code>$(cat /tmp/failedfile)</code> %0A%0A<a href='https://github.com/Evolution-X-Devices/official_devices/pull/$PULL_REQUEST_NUMBER'>Pull request link</a>"
+        sendTG "<code>Pull request $PULL_REQUEST_NUMBER is failing checks. The maintainer is requested to check it.</code> %0A%0A<b>Failed file(s):</b> <code>$(cat /tmp/failedfile)</code> %0A%0A<a href='https://github.com/LanthanumOS-Devices/official_devices/pull/$PULL_REQUEST_NUMBER'>Pull request link</a>"
         exit 1
     else
-        sendTG "<code>Pull request $PULL_REQUEST_NUMBER can be merged.</code> %0A%0A${ADMINS} %0A%0A<a href='https://github.com/Evolution-X-Devices/official_devices/pull/$PULL_REQUEST_NUMBER'>Pull request link</a>"
+        sendTG "<code>Pull request $PULL_REQUEST_NUMBER can be merged.</code> %0A%0A${ADMINS} %0A%0A<a href='https://github.com/LanthanumOS-Devices/official_devices/pull/$PULL_REQUEST_NUMBER'>Pull request link</a>"
         exit 0
     fi
 
@@ -55,7 +55,7 @@ if [[ ! "$COMMIT_MESSAGE" =~ "[EvolutionX-CI]" ]] && [ -n "$GIT_CHECK" ]; then
     git add .
     git commit -m "[EvolutionX-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff
     git remote rm origin
-    git remote add origin https://realakito:"${GH_PERSONAL_TOKEN}"@github.com/Evolution-X-Devices/official_devices.git
+    git remote add origin https://realakito:"${GH_PERSONAL_TOKEN}"@github.com/LanthanumOS-Devices/official_devices.git
     git push -f origin master
     sendTG "CI have linted JSON, repository have been force pushed!"
 fi
