@@ -8,19 +8,17 @@ ORANGE='\033[0;33m'
 ENDCOLOR='\033[0m'
 
 display_header() {
-    echo -e "${GREEN}===========================================================${ENDCOLOR}"
-    echo -e "${BLUE}      ______            __      __  _                _  __  ${ENDCOLOR}"
-    echo -e "${BLUE}     / ____/   ______  / /_  __/ /_(_)___  ____     | |/ /  ${ENDCOLOR}"
-    echo -e "${BLUE}    / __/ | | / / __ \/ / / / / __/ / __ \/ __ \    |   /   ${ENDCOLOR}"
-    echo -e "${BLUE}   / /___ | |/ / /_/ / / /_/ / /_/ / /_/ / / / /   /   |    ${ENDCOLOR}"
-    echo -e "${BLUE}  /_____/ |___/\____/_/\__,_/\__/_/\____/_/ /_/   /_/|_|    ${ENDCOLOR}"
-    echo -e "${BLUE}                                                            ${ENDCOLOR}"
-    echo -e "${BLUE}                        Json OTA helper                     ${ENDCOLOR}"
-    echo -e "${BLUE}                                                            ${ENDCOLOR}"
-    echo -e "${BLUE}                         #KeepEvolving                      ${ENDCOLOR}"
-    echo -e "${GREEN}===========================================================${ENDCOLOR}"
-}
-
+    echo -e "${GREEN}=========================================================================${ENDCOLOR}"
+    echo -e "${BLUE}      __                     __  __                                       ${ENDCOLOR}"
+    echo -e "${BLUE}     / /   _____     _____  / /_/ /_  _____     _____  __  _ ___  ____    ${ENDCOLOR}"
+    echo -e "${BLUE}    / /   / ___ \   / __  \  __/ __ \/ ___ \   / __  \/ / / / __\/__  \   ${ENDCOLOR}"
+    echo -e "${BLUE}   / /___/ /__/ /| / /  / / /_/ / / / /__/ /| / /  / / /_/ / / / /  / /   ${ENDCOLOR}"
+    echo -e "${BLUE}  /_____/\_____/_|/_/  /_/\__/_/ /_/\_____/_|/_/  /_/\____/_/ /_/  /_/    ${ENDCOLOR}"
+    echo -e "${BLUE}                                                                          ${ENDCOLOR}"
+    echo -e "${BLUE}                                                                          ${ENDCOLOR}"
+    echo -e "${GREEN}=========================================================================${ENDCOLOR}"
+    }
+  
 clear
 
 dependencies="coreutils git jq"
