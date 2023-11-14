@@ -248,27 +248,20 @@ LanthanumOS Launcher
 
 [SIZE=5][B]PLEASE DO NOT FLASH GAPPS, THEY ARE ALREADY INCLUDED
 
-First Time Install / Clean Flash from MIUI[/B][/SIZE]
+First Time Install / Clean Flash[/B][/SIZE]
 
-Backup your entire internal storage as it will be wiped in the final step before rebooting to the system.
-
-Flash the linked [URL='https://excellmedia.dl.sourceforge.net/project/recovery-for-xiaomi-devices/marble/twrp-3.7.0_12-v7.8_A13-marble-skkk.img']recovery[/URL] image by performing the following:
-
-[CODE]fastboot flash recovery twrp-3.7.0_12-v7.8_A13-marble-skkk.img[/CODE]
-
-After finishing with that, get into recovery by pressing the power button and volume up button. Or run "fastboot reboot recovery"
-
-After that, Install the ROM either by doing the normal flashing step or use adb sideload.
-
-Then kindly perform a format data in the recovery afterwards.
-
-Reboot! Enjoy! #KeepEvolving
+1. Download the proper flashable ZIP for your device
+2. Reboot to TWRP, flash patched TWRP
+3. Wipe Dalvik/Cache. System, Data, Vendor, OMR, ODM, Preload
+4. Format Data
+5. Flash ROM.zip, Magisk (Optional), DFEv2 (Optional)
+6. Reboot to System
 
 [URL='https://sourceforge.net/projects/lanthanum-os/files/judyln'][IMG]https://i.imgur.com/dvp0Hq1.png[/IMG][/URL]
 [/URL][URL='https://t.me/LanthanumOS9810'][IMG]https://cdn.discordapp.com/attachments/1099623034974904440/1173832604894634014/RwBEPP8_d.jpg?ex=656563cd&is=6552eecd&hm=4cb93a388a613d6c817fb90ab3a2796a51f5241e416ded9ebcda9d12e8653640&[/IMG][/URL]
 
-[SIZE=1][URL='https://sourceforge.net/projects/evolution-x/files/marble']Download[/URL]
-[URL='https://www.paypal.me/joeyhuab']Donate to me![/URL] / [URL='https://t.me/EvolutionX']Official Chat[/URL] / [URL='https://t.me/EvolutionXMarble']Device Support[/URL][/SIZE]
+[SIZE=1][URL='https://sourceforge.net/projects/lanthanum-os/files/starlte']Download[/URL]
+[URL='https://t.me/LanthanumOS']Official Chat[/URL] / [URL='https://t.me/LanthanumOS9810]Device Support[/URL][/SIZE]
 
 [URL='https://github.com/LanthanumOS'][IMG]https://i.imgur.com/S2t0kJ9.png[/IMG][/URL]
 [/CENTER]
