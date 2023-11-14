@@ -1,4 +1,4 @@
-FROM harukanetwork/evolutionx-ota-ci:latest
+FROM harukanetwork/lanthanumos-ota-ci:latest
 
 RUN mkdir /app
 COPY . /app
