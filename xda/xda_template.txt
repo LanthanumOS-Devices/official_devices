@@ -1,6 +1,6 @@
 [CENTER][URL='http://evolution-x.org'][IMG]https://i.imgur.com/IvlZLyc.png[/IMG][/URL]
 
-[SIZE=5][B][COLOR=#0060FF]Evolution X 7.9.6 for the POCO F5 / Redmi Note 12 Turbo [SIZE=5][B][COLOR=#0060FF][marble][/COLOR][/B][/SIZE][/COLOR][/B][/SIZE]
+[SIZE=5][B][COLOR=#0060FF]LanthanumOS 1.0 for the POCO F5 / Redmi Note 12 Turbo [SIZE=5][B][COLOR=#0060FF][marble][/COLOR][/B][/SIZE][/COLOR][/B][/SIZE]
 
 [CODE]/*
 * Your warranty is void. Or valid, probably?
@@ -13,13 +13,11 @@
 
 [IMG]https://i.imgur.com/0KUV8YX.png[/IMG]
 
-[SIZE=5][COLOR=#0060FF][B]Keep Evolving[/B][/COLOR][/SIZE]
-[SIZE=3]Pixel UI, customization, and more, we are Evolution X![/SIZE]
+[SIZE=5][COLOR=#0060FF][B][/B][/COLOR][/SIZE]
+[SIZE=3]Pixel UI, customization, and more, we are LanthanumOS![/SIZE]
 
 [B]- Team Evolution X - [/B]
-@[URL='https://forum.xda-developers.com/member.php?u=4936496']joeyhuab[/URL] (Founder/Lead Developer)
-@[URL='https://forum.xda-developers.com/m/realakito.9008281/']RealAkito[/URL](Project Manager/Co-Founder)
-@[URL='https://forum.xda-developers.com/m/anierinb.7125966/']AnierinB[/URL] (Project Specialist/Co-Founder)
+@[URL='https://forum.xda-developers.com/m/quadro-a6000.12092845/']quadro a6000[/URL] (Founder/Lead Developer)
 
 [SIZE=3][I]Reach us on Twitter! [URL='https://twitter.com/EvolutionXROM']@EvolutionXROM[/URL][/I][/SIZE]
 
@@ -201,7 +199,7 @@ Miscellaneous
 - Default USB Configuration
 - Radio Info
 
-Evolution X Launcher
+LanthanumOS Launcher
 
 - Icon Packs
 - Notification Dots
@@ -268,25 +266,25 @@ Then kindly perform a format data in the recovery afterwards.
 
 Reboot! Enjoy! #KeepEvolving
 
-[URL='https://sourceforge.net/projects/evolution-x/files/marble'][IMG]https://i.imgur.com/dvp0Hq1.png[/IMG][/URL]
+[URL='https://sourceforge.net/projects/lanthanum-os/files/judyln'][IMG]https://i.imgur.com/dvp0Hq1.png[/IMG][/URL]
 [URL='https://linktr.ee/Shaughzam'][IMG]https://i.imgur.com/Boc2GdE.png[/IMG][/URL][URL='https://t.me/EvolutionXMarble'][IMG]https://i.imgur.com/RwBEPP8.png[/IMG][/URL]
 
 [SIZE=1][URL='https://sourceforge.net/projects/evolution-x/files/marble']Download[/URL]
 [URL='https://www.paypal.me/joeyhuab']Donate to me![/URL] / [URL='https://t.me/EvolutionX']Official Chat[/URL] / [URL='https://t.me/EvolutionXMarble']Device Support[/URL][/SIZE]
 
-[URL='https://github.com/Evolution-X'][IMG]https://i.imgur.com/S2t0kJ9.png[/IMG][/URL]
+[URL='https://github.com/LanthanumOS'][IMG]https://i.imgur.com/S2t0kJ9.png[/IMG][/URL]
 [/CENTER]
 [LIST]
-[*][B]Android OS version:[/B] 13.0.0_r66
+[*][B]Android OS version:[/B] 13.0.0_r74
 [*][B]Security patch level:[/B] July 2023
-[*][B]Build author: [/B][URL='https://forum.xda-developers.com/member.php?u=4936496']Joey Huab (Shaughzam)[/URL]
-[*][B]Source code: [/B][URL='https://github.com/Evolution-X']Evolution X GitHub[/URL]
+[*][B]Build author: [/B][URL='https://forum.xda-developers.com/m/quadro-a6000.12092845/']quadro a6000[/URL]
+[*][B]Source code: [/B][URL='https://github.com/LanthamunOS]LanthanumOS GitHub[/URL]
 [*][B]Kernel Source code: [/B][URL='https://github.com/AkaneTan/kernel_xiaomi_marble']Akane's kernel[/URL]
 [*][B]ROM Developer: [/B][URL='https://forum.xda-developers.com/member.php?u=4936496']Joey Huab (Shaughzam)[/URL]
 [/LIST]
 
 [B][U][SIZE=4]XDA: DevDB Information[/SIZE][/U][/B]
-[SIZE=3][B]Evolution X, ROM for the POCO F5 / Redmi Note 12 Turbo[/B][/SIZE]
+[SIZE=3][B]LanthanumOS, ROM for the Samsung Galaxy S9[/B][/SIZE]
 
 [B][U]Contributors[/U][/B]
 [URL='https://forum.xda-developers.com/member.php?u=4936496']joeyhuab[/URL]
@@ -297,7 +295,7 @@ Reboot! Enjoy! #KeepEvolving
 
 [B][U]Version Information[/U]
 Status:[/B] Stable
-[B]Current Stable Version:[/B] 7.9.6
+[B]Current Stable Version:[/B] 1.0
 [B]Stable Release Date:[/B] 2023-06-21
 
 [B]Created[/B] 2023-06-21
