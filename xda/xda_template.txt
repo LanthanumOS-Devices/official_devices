@@ -1,6 +1,6 @@
 [CENTER][URL='http://evolution-x.org'][IMG]https://cdn.discordapp.com/attachments/1099623034974904440/1173819289271291974/IvlZLyc_d.jpg?ex=65655767&is=6552e267&hm=b4c8d4e55bf53955920f66e09aa3aee653322e93d4eb1bd77347b4d6ad190e82&[/IMG][/URL]
 
-[SIZE=5][B][COLOR=#0060FF]LanthanumOS 1.0 for the POCO F5 / Redmi Note 12 Turbo [SIZE=5][B][COLOR=#0060FF][marble][/COLOR][/B][/SIZE][/COLOR][/B][/SIZE]
+[SIZE=5][B][COLOR=#0060FF]LanthanumOS 1.0 for Samsung Galaxy S9 [SIZE=5][B][COLOR=#0060FF][marble][/COLOR][/B][/SIZE][/COLOR][/B][/SIZE]
 
 [CODE]/*
 * Your warranty is void. Or valid, probably?
