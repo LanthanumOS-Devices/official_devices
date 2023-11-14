@@ -16,7 +16,7 @@
 [SIZE=5][COLOR=#0060FF][B][/B][/COLOR][/SIZE]
 [SIZE=3]Pixel UI, customization, and more, we are LanthanumOS![/SIZE]
 
-[B]- Team Evolution X - [/B]
+[B]- Team LanthanumOS - [/B]
 @[URL='https://forum.xda-developers.com/m/quadro-a6000.12092845/']quadro a6000[/URL] (Founder/Lead Developer)
 
 [IMG]https://i.imgur.com/SRQCjQJ.png[/IMG]
