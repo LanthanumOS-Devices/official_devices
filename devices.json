@@ -6,9 +6,9 @@
       "name": "Galaxy Note 9",
       "supported_versions": [
          {
-            "device_group": "EvolutionX9810",
-            "maintainer_name": "Pham Nguyen Gia Khiem (Cyder)",
-            "maintainer_url": "https://forum.xda-developers.com/m/cyderxda.11350071/",
+            "device_group": "LanthanumOS - Exynos9810",
+            "maintainer_name": "I like Winter",
+            "maintainer_url": "https://forum.xda-developers.com/m/quadro-a6000.12092845/",
             "version_code": "thirteen",
             "version_name": "Thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-crownlte-official-evolution-x-08-23-2022.4483435/"
@@ -21,9 +21,9 @@
       "name": "Galaxy S9",
       "supported_versions": [
          {
-            "device_group": "EvolutionX9810",
-            "maintainer_name": "Pham Nguyen Gia Khiem (Cyder)",
-            "maintainer_url": "https://forum.xda-developers.com/m/cyderxda.11350071/",
+            "device_group": "LanthanumOS - Exynos9810",
+            "maintainer_name": "I likecWinter",
+            "maintainer_url": "https://forum.xda-developers.com/m/quadro-a6000.12092845/",
             "version_code": "thirteen",
             "version_name": "Thirteen",
             "xda_thread": "https://forum.xda-developers.com/t/rom-13-starlte-star2lte-official-evolution-x-08-23-2022.4483439/"
