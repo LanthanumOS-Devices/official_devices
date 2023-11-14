@@ -238,13 +238,13 @@ LanthanumOS Launcher
 - Hidden & Protected Apps
 [/SPOILER]
 
-[IMG]https://i.imgur.com/CIrL2gb.png[/IMG]
+[IMG]https://media.discordapp.net/attachments/1099623034974904440/1173821957490348082/CIrL2gb_d.jpg?ex=656559e3&is=6552e4e3&hm=50eccb301aacc4e5f2fe1dec1431768184fc1e7f1786344eed50709058ac96b1&[/IMG]
 
 * Auto brightness works awful
 * Some issues related to using prebuilt vendor
 * ADB sideload is currently broken in stock recovery
 
-[IMG]https://i.imgur.com/o2G52Ve.png[/IMG]
+[IMG]https://media.discordapp.net/attachments/1099623034974904440/1173822811068977272/o2G52Ve_d.jpg?ex=65655aae&is=6552e5ae&hm=6a2da1ccac1da880d04e9d96b90314fe5ec1ecda7123fe5ef2d0fec6484f7c15&[/IMG]
 
 [SIZE=5][B]PLEASE DO NOT FLASH GAPPS, THEY ARE ALREADY INCLUDED
 
