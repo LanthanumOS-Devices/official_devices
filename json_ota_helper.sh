@@ -141,7 +141,7 @@ filename=$(jq -r '.filename' "$input_json")
 if [ -z "$filename" ]; then
     echo -e "${RED}Invalid input json: ${CYAN}$input_json${RED}"
     echo "The input JSON file is missing the 'filename' property or has an invalid format."
-    echo "Please make sure the input json contains a 'filename' property in the format 'evolution_<codename>-ota-<>.json'"
+    echo "Please make sure the input json contains a 'filename' property in the format 'lanthanum_<codename>-ota-<>.json'"
     exit 1
 fi
 
