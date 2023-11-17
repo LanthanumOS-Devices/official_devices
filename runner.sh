@@ -50,10 +50,10 @@ fi
 GIT_CHECK="$(git status | grep "modified")"
 
 # Hack around some derps
-if [[ ! "$COMMIT_MESSAGE" =~ "[EvolutionX-CI]" ]] && [ -n "$GIT_CHECK" ]; then
+if [[ ! "$COMMIT_MESSAGE" =~ "[LanthanumOS-CI]" ]] && [ -n "$GIT_CHECK" ]; then
       git reset HEAD~1
     git add .
-    git commit -m "[EvolutionX-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff
+    git commit -m "[LanthanumOS-CI]: ${COMMIT_MESSAGE}" --author="${COMMIT_AUTHOR}" --signoff
     git remote rm origin
     git remote add origin https://realakito:"${GH_PERSONAL_TOKEN}"@github.com/LanthanumOS-Devices/official_devices.git
     git push -f origin master
